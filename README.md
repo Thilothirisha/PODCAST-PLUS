@@ -54,4 +54,4 @@ For queries or feedback, reach out to:
 Name: Thilo Thirisha
 Email: thilothirisha@gmail.com]
 GitHub: https://github.com/Thilothirisha
-https://drive.google.com/file/d/13v4T3amiORLPHKAS4uAX3OD4ohigDaDD/view?usp=drive_link dor demo link
+https://drive.google.com/file/d/13v4T3amiORLPHKAS4uAX3OD4ohigDaDD/view?usp=drive_link for demo link
