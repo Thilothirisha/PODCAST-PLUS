@@ -19,7 +19,6 @@ Networking: Retrofit/Volley
 Installation 🔧
 Clone this repository:
 bash
-Copy code
 git clone https://github.com/Thilothirisha/PodcastPlus.git  
 Open the project in Android Studio.
 Sync the Gradle files.
@@ -54,4 +53,5 @@ For queries or feedback, reach out to:
 Name: Thilo Thirisha
 Email: thilothirisha@gmail.com]
 GitHub: https://github.com/Thilothirisha
-https://drive.google.com/file/d/13v4T3amiORLPHKAS4uAX3OD4ohigDaDD/view?usp=drive_link for demo link
+DEMO VIDEO
+https://drive.google.com/file/d/13v4T3amiORLPHKAS4uAX3OD4ohigDaDD/view?usp=drive_link
